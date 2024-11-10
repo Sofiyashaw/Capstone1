@@ -1,7 +1,6 @@
-     Stellar Classification
-
+                                                         Stellar Classification
 <p align="center">
-    <img src="https://github.com/Sofiyashaw/Sofiyashaw/blob/main/coding.png" alt="Logo" width="500" height="350"/>
+    <img src="https://github.com/Sofiyashaw/Capstone1/blob/main/Night-Sky-Stars-Wallpaper.jpg" alt="Logo" width="500" height="350"/>
 </p> 
 <p align="center">
      
